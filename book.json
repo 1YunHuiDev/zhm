@@ -1,5 +1,8 @@
 {
-  "structure" : {
-    "readme" : "myAPI.md"
+  "plugins": ["multilingual-index"],
+  "pluginsConfig": {
+    "multilingual-index": {
+      "enableSuper": true
+    }
   }
 }
